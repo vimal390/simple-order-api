@@ -1,10 +1,10 @@
-# 🛒 Simple Order API
+# simple Order API
 
 A clean, lightweight backend REST API built with **Django** and **Django REST Framework**.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - User, Product, and Order models
 - Create Order API endpoint
@@ -14,7 +14,7 @@ A clean, lightweight backend REST API built with **Django** and **Django REST Fr
 
 ---
 
-## ⚡ Tech Stack
+##  Tech Stack
 
 - Python 3.x
 - Django 6.x
@@ -23,7 +23,7 @@ A clean, lightweight backend REST API built with **Django** and **Django REST Fr
 
 ---
 
-## 🛠️ Setup Instructions
+##  Setup Instructions
 
 1. **Clone the repository**
 
